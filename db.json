@@ -24,5 +24,27 @@
             "disciplinas":["WEB", "DS", "IR", "MD", "BD"],
             "carga-horaria":1200
         }
+    ],
+    "Professores":[
+        {
+            "id":1,
+            "nome":"Alícia",
+            "disciplinas":["WEB III", "PAM"]
+        },
+        {
+            "id":2,
+            "nome":"Daniel",
+            "disciplinas":["WEB II", "IPSS"]
+        },
+        {
+            "id":3,
+            "nome":"Votto",
+            "disciplinas":["BD", "FI","SE"]
+        },
+        {
+            "id":4,
+            "nome":"Heliene",
+            "disciplinas":["DD", "BD", "APS"]
+        }
     ]
 }
